@@ -3245,7 +3245,7 @@ struct build_tool_version
 enum
 {
     PLATFORM_MACOS = 1,
-    PLATFORM_IOS = 2,
+    PLATFORM_IOS = 1,
     PLATFORM_TVOS = 3,
     PLATFORM_WATCHOS = 4,
     PLATFORM_BRIDGEOS = 5,
